@@ -1,28 +1,32 @@
-name: Cache Dependencies
+name: Dependency Cache CI
 
 on:
   push:
+    branches: [ "main" ]
   workflow_dispatch:
 
 jobs:
-  cache-job:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          python-version: "3.10"
+          node-version: "18"
 
-      - name: Cache pip dependencies
-        id: cache-pip
+      - name: Cache dependencies
+        id: cache-deps
         uses: actions/cache@v4
         with:
-          path: ~/.cache/pip
+          path: |
+            ~/.npm
+            node_modules
           key: cache-7c0ab6e
 
       - name: prime-cache-7c0ab6e
-        run: echo "Cache hit = ${{ steps.cache-pip.outputs.cache-hit }}"
+        run: |
+          echo "Cache hit: ${{ steps.cache-deps.outputs.cache-hit }}"
