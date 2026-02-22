@@ -5,33 +5,33 @@
     "generatedAt": "2026-02-21T10:30:00Z"
   },
   "products": [
-    { "id": 1, "name": "Classic T-Shirt", "category": "clothing", "price": 799.99, "stock": 42, "rating": 4.4 },
-    { "id": 2, "name": "Denim Jeans", "category": "clothing", "price": 1999.99, "stock": 18, "rating": 4.6 },
-    { "id": 3, "name": "Hooded Sweatshirt", "category": "clothing", "price": 1499.99, "stock": 25, "rating": 4.5 },
-    { "id": 4, "name": "Leather Jacket", "category": "clothing", "price": 8999.99, "stock": 6, "rating": 4.8 },
-    { "id": 5, "name": "Summer Dress", "category": "clothing", "price": 1299.99, "stock": 21, "rating": 4.3 },
+  { "id": "prod-f3adc65f-001", "name": "Classic T-Shirt", "category": "clothing", "price": 799.99, "stock": 42, "rating": 4.4 },
+  { "id": "prod-f3adc65f-002", "name": "Denim Jeans", "category": "clothing", "price": 1999.99, "stock": 18, "rating": 4.6 },
+  { "id": "prod-f3adc65f-003", "name": "Hooded Sweatshirt", "category": "clothing", "price": 1499.99, "stock": 25, "rating": 4.5 },
+  { "id": "prod-f3adc65f-004", "name": "Leather Jacket", "category": "clothing", "price": 8999.99, "stock": 6, "rating": 4.8 },
+  { "id": "prod-f3adc65f-005", "name": "Summer Dress", "category": "clothing", "price": 1299.99, "stock": 21, "rating": 4.3 },
 
-    { "id": 6, "name": "Wireless Mouse", "category": "electronics", "price": 899.99, "stock": 55, "rating": 4.2 },
-    { "id": 7, "name": "Mechanical Keyboard", "category": "electronics", "price": 3499.99, "stock": 30, "rating": 4.7 },
-    { "id": 8, "name": "Noise Cancelling Headphones", "category": "electronics", "price": 6999.99, "stock": 20, "rating": 4.6 },
-    { "id": 9, "name": "Smart Watch", "category": "electronics", "price": 10999.99, "stock": 15, "rating": 4.5 },
-    { "id": 10, "name": "USB-C Charger", "category": "electronics", "price": 1299.99, "stock": 60, "rating": 4.1 },
+  { "id": "prod-f3adc65f-006", "name": "Wireless Mouse", "category": "electronics", "price": 899.99, "stock": 55, "rating": 4.2 },
+  { "id": "prod-f3adc65f-007", "name": "Mechanical Keyboard", "category": "electronics", "price": 3499.99, "stock": 30, "rating": 4.7 },
+  { "id": "prod-f3adc65f-008", "name": "Noise Cancelling Headphones", "category": "electronics", "price": 6999.99, "stock": 20, "rating": 4.6 },
+  { "id": "prod-f3adc65f-009", "name": "Smart Watch", "category": "electronics", "price": 10999.99, "stock": 15, "rating": 4.5 },
+  { "id": "prod-f3adc65f-010", "name": "USB-C Charger", "category": "electronics", "price": 1299.99, "stock": 60, "rating": 4.1 },
 
-    { "id": 11, "name": "Notebook", "category": "stationery", "price": 199.99, "stock": 200, "rating": 4.0 },
-    { "id": 12, "name": "Ballpoint Pen Set", "category": "stationery", "price": 149.99, "stock": 300, "rating": 3.9 },
-    { "id": 13, "name": "Desk Organizer", "category": "stationery", "price": 499.99, "stock": 80, "rating": 4.2 },
-    { "id": 14, "name": "Sticky Notes Pack", "category": "stationery", "price": 99.99, "stock": 500, "rating": 3.8 },
-    { "id": 15, "name": "Highlighter Set", "category": "stationery", "price": 249.99, "stock": 150, "rating": 4.1 },
+  { "id": "prod-f3adc65f-011", "name": "Notebook", "category": "stationery", "price": 199.99, "stock": 200, "rating": 4.0 },
+  { "id": "prod-f3adc65f-012", "name": "Ballpoint Pen Set", "category": "stationery", "price": 149.99, "stock": 300, "rating": 3.9 },
+  { "id": "prod-f3adc65f-013", "name": "Desk Organizer", "category": "stationery", "price": 499.99, "stock": 80, "rating": 4.2 },
+  { "id": "prod-f3adc65f-014", "name": "Sticky Notes Pack", "category": "stationery", "price": 99.99, "stock": 500, "rating": 3.8 },
+  { "id": "prod-f3adc65f-015", "name": "Highlighter Set", "category": "stationery", "price": 249.99, "stock": 150, "rating": 4.1 },
 
-    { "id": 16, "name": "Ceramic Coffee Mug", "category": "home", "price": 349.99, "stock": 90, "rating": 4.3 },
-    { "id": 17, "name": "Table Lamp", "category": "home", "price": 2499.99, "stock": 22, "rating": 4.4 },
-    { "id": 18, "name": "Wall Clock", "category": "home", "price": 1299.99, "stock": 35, "rating": 4.2 },
-    { "id": 19, "name": "Cushion Cover Set", "category": "home", "price": 999.99, "stock": 40, "rating": 4.1 },
-    { "id": 20, "name": "Bedsheet", "category": "home", "price": 1899.99, "stock": 28, "rating": 4.5 },
+  { "id": "prod-f3adc65f-016", "name": "Ceramic Coffee Mug", "category": "home", "price": 349.99, "stock": 90, "rating": 4.3 },
+  { "id": "prod-f3adc65f-017", "name": "Table Lamp", "category": "home", "price": 2499.99, "stock": 22, "rating": 4.4 },
+  { "id": "prod-f3adc65f-018", "name": "Wall Clock", "category": "home", "price": 1299.99, "stock": 35, "rating": 4.2 },
+  { "id": "prod-f3adc65f-019", "name": "Cushion Cover Set", "category": "home", "price": 999.99, "stock": 40, "rating": 4.1 },
+  { "id": "prod-f3adc65f-020", "name": "Bedsheet", "category": "home", "price": 1899.99, "stock": 28, "rating": 4.5 },
 
-    { "id": 21, "name": "Yoga Mat", "category": "fitness", "price": 1499.99, "stock": 50, "rating": 4.6 },
-    { "id": 22, "name": "Dumbbell Set", "category": "fitness", "price": 4999.99, "stock": 12, "rating": 4.7 }
-  ],
+  { "id": "prod-f3adc65f-021", "name": "Yoga Mat", "category": "fitness", "price": 1499.99, "stock": 50, "rating": 4.6 },
+  { "id": "prod-f3adc65f-022", "name": "Dumbbell Set", "category": "fitness", "price": 4999.99, "stock": 12, "rating": 4.7 }
+],
   "aggregations": {
     "clothing": {
       "count": 5,
