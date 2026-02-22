@@ -2,7 +2,7 @@
   "metadata": {
     "email": "22f2000003@ds.study.iitm.ac.in",
     "version": "f3adc65f",
-    "generatedAt": "2026-02-21"
+    "generatedAt": "2026-02-21T10:30:00Z"
   },
   "products": [
     { "id": 1, "name": "Classic T-Shirt", "category": "clothing", "price": 799.99, "stock": 42, "rating": 4.4 },
